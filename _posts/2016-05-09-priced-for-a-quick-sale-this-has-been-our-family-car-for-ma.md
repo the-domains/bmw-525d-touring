@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Priced for a quick sale! This has been our family car for many years. It has been regularly maintained (invoices available) and has been trouble-free. Specification includes automatic transmission, leather seats, air-con, auto-lights, auto-dip mirror, cruise control, sat-nav, multifunction steering wheel, front and rear parking sensors, CD changer, spare wheel and roof rails. '
-datePublished: '2016-05-09T09:06:52.162Z'
-dateModified: '2016-05-09T09:04:11.637Z'
+description: 'Priced for a quick sale! This has been our family car for many years. It has been regularly maintained (invoices available) and has been trouble-free. Specification includes automatic transmission, leather seats, air-con, auto-lights, auto-dip mirror, cruise control, sat-nav, multifunction steering wheel, front and rear parking sensors, CD changer, spare wheel and roof rails. £2995'
+datePublished: '2016-05-09T09:11:44.660Z'
+dateModified: '2016-05-09T09:07:23.778Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-priced-for-a-quick-sale-this-has-been-our-family-car-for-ma.md
@@ -33,4 +33,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9017e23-efad-4aa2-8f89-d25027632d36.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73486556-7a0c-4565-948b-13f00360d4f6.jpg)
 
-Priced for a quick sale! This has been our family car for many years. It has been regularly maintained (invoices available) and has been trouble-free. Specification includes automatic transmission, leather seats, air-con, auto-lights, auto-dip mirror, cruise control, sat-nav, multifunction steering wheel, front and rear parking sensors, CD changer, spare wheel and roof rails.
+Priced for a quick sale! This has been our family car for many years. It has been regularly maintained (invoices available) and has been trouble-free. Specification includes automatic transmission, leather seats, air-con, auto-lights, auto-dip mirror, cruise control, sat-nav, multifunction steering wheel, front and rear parking sensors, CD changer, spare wheel and roof rails. £2995
